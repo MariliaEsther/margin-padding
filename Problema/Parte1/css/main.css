@@ -1,5 +1,24 @@
+
 div {
     width: 200px;
     border: 2px solid #FF8C00;
-    padding: 7px;
+    padding: 8px;
+}
+
+
+.regresar{
+    text-align: right;
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+.siguiente{
+    text-align: right;
+    font-family: cursive;
+    font-size: 20px;
+    color: crimson;
+}
+
+p{
+    font-family: sans-serif;
 }
